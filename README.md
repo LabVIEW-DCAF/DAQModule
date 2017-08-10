@@ -1,2 +1,2 @@
 # DAQModule
-Single Point Daqmx Adquisition
+Single Point Daqmx Acquisition
