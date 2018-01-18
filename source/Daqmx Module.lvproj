@@ -25,6 +25,7 @@
 		<Item Name="Daqmx Module configuration.lvclass" Type="LVClass" URL="../module/configuration/Daqmx Module configuration.lvclass"/>
 		<Item Name="Daqmx Module runtime.lvclass" Type="LVClass" URL="../module/execution/Daqmx Module runtime.lvclass"/>
 		<Item Name="Daqmx Module tests.lvlib" Type="Library" URL="../testing/Daqmx Module tests.lvlib"/>
+		<Item Name="DAQmx Single Point HW Timed.lvclass" Type="LVClass" URL="../timing source/DAQmx Single Point HW Timed.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>

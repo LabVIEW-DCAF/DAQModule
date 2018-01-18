@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-08-10 13:53:33" Creator="Daniel" Comments="" ID="278dcefe1aecb18a4e0b9724d884c724">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-09-14 12:08:17" Creator="Daniel" Comments="" ID="dfa3ce4e55b96e5cfaf3879b894d0fe0">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_daqmx</Package_File_Name>
     <Library_Version>1.1.0.8</Library_Version>
@@ -40,7 +40,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;vi.lib&gt;\NI\DCAF\Modules\J1939</Path>
+        <Path>&lt;vi.lib&gt;\NI\DCAF\Modules\Daqmx</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
