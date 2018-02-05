@@ -8,37 +8,36 @@
 
 </Property>
 	<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../Add Remove Test.lvtest">
-		<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:Add Remove Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">7936FA15-12CD-3055-EAED-1E619B6EF1C5</Property>
+		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Add Remove Test.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">F4CF5396-F80B-3FF0-F0FB-B341B825952B</Property>
 	</Item>
 	<Item Name="Add Remove Test.vi" Type="VI" URL="../Add Remove Test.vi"/>
 	<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../config crosslink test.lvtest">
-		<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:config crosslink test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">322815F6-EAB9-C89C-EA22-4AB071697DCA</Property>
+		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:config crosslink test.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">7430CE64-A72F-F452-AA47-C15427C2288F</Property>
 	</Item>
 	<Item Name="config crosslink test.vi" Type="VI" URL="../config crosslink test.vi"/>
 	<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
 	<Item Name="Duplicate Name Error Test.lvtest" Type="TestItem" URL="../Duplicate Name Error Test.lvtest">
-		<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:Duplicate Name Error Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">F50AA2FB-3827-F30A-BF97-E97CC168D36B</Property>
+		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Duplicate Name Error Test.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">DD1ECF1E-AEE9-5C13-DC4C-73A0DCDC8F82</Property>
 	</Item>
 	<Item Name="Duplicate Name Error Test.vi" Type="VI" URL="../Duplicate Name Error Test.vi"/>
-	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
 	<Item Name="Find Duplicate Test.lvtest" Type="TestItem" URL="../Find Duplicate Test.lvtest">
-		<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:Find Duplicate Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">483201C0-AF54-F673-75F5-4D0FD0B1DFE1</Property>
+		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Find Duplicate Test.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">53F849AB-C972-05AE-AF17-F9532B0585E4</Property>
 	</Item>
 	<Item Name="Find Duplicate Test.vi" Type="VI" URL="../Find Duplicate Test.vi"/>
 	<Item Name="get channels test.vi" Type="VI" URL="../get channels test.vi"/>
 	<Item Name="init runtime test.lvtest" Type="TestItem" URL="../init runtime test.lvtest">
-		<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:init runtime test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">F5FBCEA0-DA5E-7E62-7E10-C3AE408745B9</Property>
+		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:init runtime test.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">E94289A5-CE70-4C7F-8DF5-210B41F7C520</Property>
 	</Item>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
 	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
 	<Item Name="runtime to editor crosslink test.lvtest" Type="TestItem" URL="../runtime to editor crosslink test.lvtest">
-		<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:runtime to editor crosslink test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">D92CAEE4-C8D1-A46C-5E60-D52C7CE7E2D4</Property>
+		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:runtime to editor crosslink test.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">43B79D92-D511-4199-41FA-7429003122D6</Property>
 	</Item>
 	<Item Name="runtime to editor crosslink test.vi" Type="VI" URL="../runtime to editor crosslink test.vi"/>
 	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
