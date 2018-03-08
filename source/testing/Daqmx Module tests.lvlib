@@ -9,41 +9,42 @@
 </Property>
 	<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../Add Remove Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Add Remove Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">18F7847C-0C11-9B40-1B9E-132723A43CE4</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">D6FC95B9-9A69-A372-B351-1681EAAC3D41</Property>
 	</Item>
 	<Item Name="Add Remove Test.vi" Type="VI" URL="../Add Remove Test.vi"/>
 	<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../config crosslink test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:config crosslink test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">0CF21AF6-DD02-CE87-7D8F-23519852A5CE</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">4BE13CE1-0F0E-4288-D1EB-9FEE121B90D0</Property>
 	</Item>
 	<Item Name="config crosslink test.vi" Type="VI" URL="../config crosslink test.vi"/>
 	<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
 	<Item Name="Duplicate Name Error Test.lvtest" Type="TestItem" URL="../Duplicate Name Error Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Duplicate Name Error Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">B9B36A72-1173-22E3-397F-EEBAA77E4FC7</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">57280C0C-DC99-3445-1490-7EBA5E66309D</Property>
 	</Item>
 	<Item Name="Duplicate Name Error Test.vi" Type="VI" URL="../Duplicate Name Error Test.vi"/>
 	<Item Name="Find Duplicate Test.lvtest" Type="TestItem" URL="../Find Duplicate Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Find Duplicate Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">8DEB4B03-14B7-DB0E-0B77-F4CA038DF52C</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">07CE5662-A011-40FC-D118-EE38DC64ABE4</Property>
 	</Item>
 	<Item Name="Find Duplicate Test.vi" Type="VI" URL="../Find Duplicate Test.vi"/>
 	<Item Name="get channels test.vi" Type="VI" URL="../get channels test.vi"/>
 	<Item Name="init runtime test.lvtest" Type="TestItem" URL="../init runtime test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:init runtime test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">C3BFBCE4-D5A2-1F45-3A2F-D4AA1CAE5BA6</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">E2CC1FF2-281A-44A7-1477-E988F46DEEA2</Property>
 	</Item>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
 	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
 	<Item Name="runtime to editor crosslink test.lvtest" Type="TestItem" URL="../runtime to editor crosslink test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:runtime to editor crosslink test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">B9B49B55-AF31-A546-042B-61F7A0E14A67</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">D6DD004D-25B9-9CC5-BB65-8AF288DD7E72</Property>
 	</Item>
 	<Item Name="runtime to editor crosslink test.vi" Type="VI" URL="../runtime to editor crosslink test.vi"/>
 	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
+	<Item Name="To and  From CSV.vi" Type="VI" URL="../To and  From CSV.vi"/>
 	<Item Name="To and  From String Array.lvtest" Type="TestItem" URL="../To and  From String Array.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:To and  From String Array.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">0D814640-7C01-6E0A-B831-A56CB49A8E70</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">FA5E44D8-819A-7FC2-D9CD-E37176604D4B</Property>
 	</Item>
 	<Item Name="To and  From String Array.vi" Type="VI" URL="../To and  From String Array.vi"/>
 	<Item Name="ToTable Test.vi" Type="VI" URL="../ToTable Test.vi"/>
