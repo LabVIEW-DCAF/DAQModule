@@ -9,37 +9,47 @@
 </Property>
 	<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../Add Remove Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Add Remove Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">F4CF5396-F80B-3FF0-F0FB-B341B825952B</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">EEA0E0DE-0A01-4AA3-869C-C07E5BC0FD3E</Property>
 	</Item>
 	<Item Name="Add Remove Test.vi" Type="VI" URL="../Add Remove Test.vi"/>
 	<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../config crosslink test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:config crosslink test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">7430CE64-A72F-F452-AA47-C15427C2288F</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">516BE2A8-7459-7AAC-2D56-9C47B33D0FC8</Property>
 	</Item>
 	<Item Name="config crosslink test.vi" Type="VI" URL="../config crosslink test.vi"/>
 	<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
 	<Item Name="Duplicate Name Error Test.lvtest" Type="TestItem" URL="../Duplicate Name Error Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Duplicate Name Error Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">DD1ECF1E-AEE9-5C13-DC4C-73A0DCDC8F82</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">76631697-BCE6-B4ED-B041-DC94D4D7649F</Property>
 	</Item>
 	<Item Name="Duplicate Name Error Test.vi" Type="VI" URL="../Duplicate Name Error Test.vi"/>
 	<Item Name="Find Duplicate Test.lvtest" Type="TestItem" URL="../Find Duplicate Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Find Duplicate Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">53F849AB-C972-05AE-AF17-F9532B0585E4</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">6A16BFC7-0617-2D9B-F6A2-E0B606905591</Property>
 	</Item>
 	<Item Name="Find Duplicate Test.vi" Type="VI" URL="../Find Duplicate Test.vi"/>
 	<Item Name="get channels test.vi" Type="VI" URL="../get channels test.vi"/>
 	<Item Name="init runtime test.lvtest" Type="TestItem" URL="../init runtime test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:init runtime test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">E94289A5-CE70-4C7F-8DF5-210B41F7C520</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">1740CAB5-38DD-2830-D21D-043421930C14</Property>
 	</Item>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
 	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
 	<Item Name="runtime to editor crosslink test.lvtest" Type="TestItem" URL="../runtime to editor crosslink test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:runtime to editor crosslink test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">43B79D92-D511-4199-41FA-7429003122D6</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">1B2A8316-A23A-5FC6-3013-B852DD5FDF6C</Property>
 	</Item>
 	<Item Name="runtime to editor crosslink test.vi" Type="VI" URL="../runtime to editor crosslink test.vi"/>
 	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
+	<Item Name="To and  From CSV.lvtest" Type="TestItem" URL="../To and  From CSV.lvtest">
+		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:To and  From CSV.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">7598704B-D30E-229B-291D-194E3EDC73A1</Property>
+	</Item>
+	<Item Name="To and  From CSV.vi" Type="VI" URL="../To and  From CSV.vi"/>
+	<Item Name="To and  From String Array.lvtest" Type="TestItem" URL="../To and  From String Array.lvtest">
+		<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:To and  From String Array.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">22815F6E-AB9C-89CE-A224-AB071697DCA2</Property>
+	</Item>
+	<Item Name="To and  From String Array.vi" Type="VI" URL="../To and  From String Array.vi"/>
 	<Item Name="ToTable Test.vi" Type="VI" URL="../ToTable Test.vi"/>
 </Library>
