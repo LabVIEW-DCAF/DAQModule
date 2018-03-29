@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-09-14 12:08:17" Creator="Daniel" Comments="" ID="dfa3ce4e55b96e5cfaf3879b894d0fe0">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2018-03-29 14:53:35" Creator="Daniel" Comments="" ID="0776d2b26e242d0665a67cdaed929ead">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_daqmx</Package_File_Name>
     <Library_Version>1.1.0.8</Library_Version>
@@ -17,7 +17,7 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>ni_frmwk_dcaf_core &gt;=1.1.0.25</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_frmwk_dcaf_core &gt;=1.3.0.12</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
