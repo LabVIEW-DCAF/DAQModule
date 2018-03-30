@@ -22,7 +22,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DAQmx Module editor node.lvclass" Type="LVClass" URL="../editor node/DAQmx Module editor node.lvclass"/>
-		<Item Name="DAQmx Module Configuration.lvclass" Type="LVClass" URL="../module/configuration/DAQmx Module Configuration.lvclass"/>
+		<Item Name="DAQmx Module Configuration.lvclass" Type="LVClass" URL="../module/configuration/Daqmx Module configuration.lvclass"/>
 		<Item Name="DAQmx Module Runtime.lvclass" Type="LVClass" URL="../module/execution/DAQmx Module Runtime.lvclass"/>
 		<Item Name="Daqmx Module tests.lvlib" Type="Library" URL="../testing/DAQmx Module Tests.lvlib"/>
 		<Item Name="DAQmx Single Point HW Timed.lvclass" Type="LVClass" URL="../timing source/DAQmx Single Point HW Timed.lvclass"/>
