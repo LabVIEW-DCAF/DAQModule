@@ -21,7 +21,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Daqmx Module editor node.lvclass" Type="LVClass" URL="../editor node/DAQmx Module Editor Node.lvclass"/>
+		<Item Name="DAQmx Module Editor Node.lvclass" Type="LVClass" URL="../editor node/DAQmx Module Editor Node.lvclass"/>
 		<Item Name="DAQmx Module Configuration.lvclass" Type="LVClass" URL="../module/configuration/DAQmx Module Configuration.lvclass"/>
 		<Item Name="DAQmx Module Runtime.lvclass" Type="LVClass" URL="../module/execution/DAQmx Module Runtime.lvclass"/>
 		<Item Name="Daqmx Module tests.lvlib" Type="Library" URL="../testing/DAQmx Module Tests.lvlib"/>
