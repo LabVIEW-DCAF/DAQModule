@@ -21,10 +21,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="DAQmx Module Editor Node.lvclass" Type="LVClass" URL="../editor node/DAQmx Module Editor Node.lvclass"/>
+		<Item Name="Daqmx Module editor node.lvclass" Type="LVClass" URL="../editor node/DAQmx Module Editor Node.lvclass"/>
 		<Item Name="DAQmx Module Configuration.lvclass" Type="LVClass" URL="../module/configuration/DAQmx Module Configuration.lvclass"/>
 		<Item Name="DAQmx Module Runtime.lvclass" Type="LVClass" URL="../module/execution/DAQmx Module Runtime.lvclass"/>
-		<Item Name="DAQmx Module Tests.lvlib" Type="Library" URL="../testing/DAQmx Module Tests.lvlib"/>
+		<Item Name="Daqmx Module tests.lvlib" Type="Library" URL="../testing/DAQmx Module Tests.lvlib"/>
 		<Item Name="DAQmx Single Point HW Timed.lvclass" Type="LVClass" URL="../timing source/DAQmx Single Point HW Timed.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -340,6 +340,8 @@
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
 				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
+				<Item Name="DAQmx Reserve Network Device.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/system.llb/DAQmx Reserve Network Device.vi"/>
+				<Item Name="DAQmx Self-Test Device.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/system.llb/DAQmx Self-Test Device.vi"/>
 			</Item>
 			<Item Name="System.Drawing" Type="Document" URL="System.Drawing">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
