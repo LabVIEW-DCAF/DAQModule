@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2018-04-02 15:36:34" Creator="Daniel" Comments="" ID="99a72d2492b86b08be3e10abd3601d4f">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2018-04-03 17:08:28" Creator="Daniel" Comments="" ID="0bd5a6893889a582f85f20f392c2ce0c">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_daqmx</Package_File_Name>
     <Library_Version>1.1.0.8</Library_Version>
@@ -31,7 +31,7 @@
     <Description>
       <One_Line_Description_Summary>Allows single point adquisition usign DAQmx</One_Line_Description_Summary>
       <Description>This module takes single point data adquistion from DAQmx.
-It supports only cDAQ and cRIO chassis. </Description>
+</Description>
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
