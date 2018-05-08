@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2018-04-17 14:16:34" Creator="Daniel" Comments="" ID="9a9437cc07a5b5d3ee2cf4685b45e05e">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2018-05-04 15:18:05" Creator="Daniel" Comments="" ID="8e5c6bd83dff78cb47733e1bf60b30a0">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_daqmx</Package_File_Name>
     <Library_Version>1.1.0.8</Library_Version>
@@ -109,9 +109,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Exclusions>
-        <Path>testing</Path>
-      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
     <Licensing_and_Activation>
