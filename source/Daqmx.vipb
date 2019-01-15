@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2019-01-10 17:25:34" Creator="Daniel" Comments="" ID="dc5605fa5c075fc3dca155f9e9bccc33">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2019-01-15 14:56:15" Creator="Daniel" Comments="" ID="9c5d72d7c48b8176e3cafd224b9fe7f8">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_daqmx</Package_File_Name>
     <Library_Version>1.1.0.8</Library_Version>
@@ -31,10 +31,11 @@
     <Description>
       <One_Line_Description_Summary>Allows single point adquisition usign DAQmx</One_Line_Description_Summary>
       <Description>This module takes single point data adquistion from DAQmx.
-</Description>
+
+Contribute to this open source software at github.com/LabVIEW-DCAF/DAQModule</Description>
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
-      <URL/>
+      <URL>https://github.com/LabVIEW-DCAF/DAQModule</URL>
       <Release_Notes>Updated to LabVIEW 2015 or later.</Release_Notes>
     </Description>
     <Destinations>
