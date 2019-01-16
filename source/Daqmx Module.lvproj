@@ -24,42 +24,42 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Unit Test Framework tests" Type="Folder">
 			<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../testing/Add Remove Test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:Add Remove Test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Add Remove Test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">FF77B0FA-13DF-2027-DD4B-37658F9FC72C</Property>
 			</Item>
 			<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../testing/config crosslink test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:config crosslink test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:config crosslink test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">F1EC24D3-2007-055D-EDFD-3E9631A2D3AB</Property>
 			</Item>
 			<Item Name="Duplicate Name Error Test.lvtest" Type="TestItem" URL="../testing/Duplicate Name Error Test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:Duplicate Name Error Test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Duplicate Name Error Test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">2CF22574-5624-01EA-E315-5CDD905AFDFA</Property>
 			</Item>
 			<Item Name="Find Duplicate Test.lvtest" Type="TestItem" URL="../testing/Find Duplicate Test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:Find Duplicate Test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:Find Duplicate Test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">10C00BAE-AC62-02CC-4783-BBED43C391C1</Property>
 			</Item>
 			<Item Name="init runtime test.lvtest" Type="TestItem" URL="../testing/init runtime test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:init runtime test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:init runtime test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">5EC43090-63E8-5E2B-5401-D1327205894B</Property>
 			</Item>
 			<Item Name="runtime to editor crosslink test.lvtest" Type="TestItem" URL="../testing/runtime to editor crosslink test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:runtime to editor crosslink test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:runtime to editor crosslink test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">91F55C49-08D5-425A-DFC6-210458A0DBBD</Property>
 			</Item>
 			<Item Name="To and  From CSV.lvtest" Type="TestItem" URL="../testing/To and  From CSV.lvtest">
-				<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:To and  From CSV.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:To and  From CSV.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">5DFA3B06-0FF6-CD27-C204-2B66F48E63C2</Property>
 			</Item>
 			<Item Name="To and  From String Array.lvtest" Type="TestItem" URL="../testing/To and  From String Array.lvtest">
-				<Property Name="utf.test.bind" Type="Str">Daqmx Module tests.lvlib:To and  From String Array.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">DAQmx Module Tests.lvlib:To and  From String Array.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">2E4063C1-7314-7AF6-04ED-C561995C77FD</Property>
 			</Item>
 		</Item>
-		<Item Name="Daqmx Module editor node.lvclass" Type="LVClass" URL="../editor node/DAQmx Module editor node.lvclass"/>
+		<Item Name="DAQmx Module editor node.lvclass" Type="LVClass" URL="../editor node/DAQmx Module editor node.lvclass"/>
 		<Item Name="Daqmx Module configuration.lvclass" Type="LVClass" URL="../module/configuration/Daqmx Module configuration.lvclass"/>
-		<Item Name="Daqmx Module runtime.lvclass" Type="LVClass" URL="../module/execution/DAQmx Module Runtime.lvclass"/>
-		<Item Name="Daqmx Module tests.lvlib" Type="Library" URL="../testing/DAQmx Module Tests.lvlib"/>
+		<Item Name="DAQmx Module Runtime.lvclass" Type="LVClass" URL="../module/execution/DAQmx Module Runtime.lvclass"/>
+		<Item Name="DAQmx Module Tests.lvlib" Type="Library" URL="../testing/DAQmx Module Tests.lvlib"/>
 		<Item Name="DAQmx Single Point HW Timed.lvclass" Type="LVClass" URL="../timing source/DAQmx Single Point HW Timed.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -172,7 +172,6 @@
 				<Item Name="DAQmx Fill In Error Info.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/miscellaneous.llb/DAQmx Fill In Error Info.vi"/>
 				<Item Name="DAQmx Clear Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Clear Task.vi"/>
 				<Item Name="DAQmx Stop Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Stop Task.vi"/>
-				<Item Name="DAQmx Start Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Start Task.vi"/>
 				<Item Name="DAQmx Create Channel (AI-Voltage-Basic).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (AI-Voltage-Basic).vi"/>
 				<Item Name="DAQmx Create Channel (CI-Duty Cycle).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (CI-Duty Cycle).vi"/>
 				<Item Name="DAQmx Create Channel (AI-Strain-Rosette Strain Gage).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (AI-Strain-Rosette Strain Gage).vi"/>
@@ -350,15 +349,6 @@
 				<Item Name="DAQmx Write.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write.vi"/>
 				<Item Name="TryGetGraphVizPath.vi" Type="VI" URL="/&lt;vilib&gt;/NI/DCAF/Tag Editor Core/Utilities/External tools/TryGetGraphVizPath.vi"/>
 				<Item Name="Format Numeric String.vi" Type="VI" URL="/&lt;vilib&gt;/NI/DCAF/Tag Editor Core/Table API/Helpers/Format Numeric String.vi"/>
-				<Item Name="DAQmx Timing.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing.vi"/>
-				<Item Name="DAQmx Timing (Sample Clock).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Sample Clock).vi"/>
-				<Item Name="DAQmx Timing (Handshaking).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Handshaking).vi"/>
-				<Item Name="DAQmx Timing (Implicit).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Implicit).vi"/>
-				<Item Name="DAQmx Timing (Use Waveform).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Use Waveform).vi"/>
-				<Item Name="DAQmx Timing (Change Detection).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Change Detection).vi"/>
-				<Item Name="DAQmx Timing (Burst Import Clock).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Burst Import Clock).vi"/>
-				<Item Name="DAQmx Timing (Burst Export Clock).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Burst Export Clock).vi"/>
-				<Item Name="DAQmx Timing (Pipelined Sample Clock).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Pipelined Sample Clock).vi"/>
 				<Item Name="DAQmx Create Channel (CI-Velocity-Angular).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (CI-Velocity-Angular).vi"/>
 				<Item Name="DAQmx Create Channel (CI-Velocity-Linear).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (CI-Velocity-Linear).vi"/>
 				<Item Name="DAQmx Create Channel (AI-Acceleration-4 Wire DC Voltage).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (AI-Acceleration-4 Wire DC Voltage).vi"/>
@@ -377,6 +367,16 @@
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 				<Item Name="DAQmx Reserve Network Device.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/system.llb/DAQmx Reserve Network Device.vi"/>
 				<Item Name="DAQmx Self-Test Device.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/system.llb/DAQmx Self-Test Device.vi"/>
+				<Item Name="DAQmx Start Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Start Task.vi"/>
+				<Item Name="DAQmx Timing.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing.vi"/>
+				<Item Name="DAQmx Timing (Sample Clock).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Sample Clock).vi"/>
+				<Item Name="DAQmx Timing (Handshaking).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Handshaking).vi"/>
+				<Item Name="DAQmx Timing (Implicit).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Implicit).vi"/>
+				<Item Name="DAQmx Timing (Use Waveform).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Use Waveform).vi"/>
+				<Item Name="DAQmx Timing (Change Detection).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Change Detection).vi"/>
+				<Item Name="DAQmx Timing (Burst Import Clock).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Burst Import Clock).vi"/>
+				<Item Name="DAQmx Timing (Burst Export Clock).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Burst Export Clock).vi"/>
+				<Item Name="DAQmx Timing (Pipelined Sample Clock).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Pipelined Sample Clock).vi"/>
 			</Item>
 			<Item Name="System.Drawing" Type="Document" URL="System.Drawing">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
