@@ -61,7 +61,6 @@
 		<Item Name="DAQmx Module Runtime.lvclass" Type="LVClass" URL="../module/execution/DAQmx Module Runtime.lvclass"/>
 		<Item Name="DAQmx Module Tests.lvlib" Type="Library" URL="../testing/DAQmx Module Tests.lvlib"/>
 		<Item Name="DAQmx Single Point HW Timed.lvclass" Type="LVClass" URL="../timing source/DAQmx Single Point HW Timed.lvclass"/>
-		<Item Name="Daqmx Module Configuration 1_0_0 Typedef.ctl" Type="VI" URL="../module/configuration/Daqmx Module Configuration 1_0_0 Typedef.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>
@@ -389,6 +388,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Callback Change Tag.vi" Type="VI" URL="../editor node/Callback Change Tag.vi"/>
+			<Item Name="Callback Change Tag2.vi" Type="VI" URL="../editor node/Callback Change Tag2.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
