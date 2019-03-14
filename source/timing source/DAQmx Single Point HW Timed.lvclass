@@ -60,13 +60,4 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1116209680</Property>
 	</Item>
-	<Item Name="wait on clock2.vi" Type="VI" URL="../wait on clock2.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;8!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"N!"Q!6&gt;'FD;X-A=WFO9W5A&lt;'&amp;T&gt;#"D97RM!%"!=!!?!!!F)U2"57VY)&amp;.J&lt;G&gt;M:3"1&lt;WFO&gt;#")6S"5;7VF:#ZM&gt;G.M98.T!"&amp;U;7VJ&lt;G=A=W^V=G.F)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!#5!(!!*E&gt;!!!1%"Q!"Y!!#5D2%&amp;2&lt;8AA5WFO:WRF)&amp;"P;7ZU)%B8)&amp;2J&lt;76E,GRW9WRB=X-!%(2J&lt;7FO:S"T&lt;X6S9W5A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!#!!*!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!#3!!!!!!%!#A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-	</Item>
 </LVClass>
