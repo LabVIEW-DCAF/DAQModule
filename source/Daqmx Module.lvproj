@@ -387,8 +387,6 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Callback Change Tag.vi" Type="VI" URL="../editor node/Callback Change Tag.vi"/>
-			<Item Name="Callback Change Tag2.vi" Type="VI" URL="../editor node/Callback Change Tag2.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

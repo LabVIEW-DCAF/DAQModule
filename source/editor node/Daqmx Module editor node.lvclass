@@ -56,6 +56,24 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1074536976</Property>
 			</Item>
+			<Item Name="Callback Change Tag.vi" Type="VI" URL="../Callback Change Tag.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,I!!!!&amp;!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!R!5Q&gt;798*J97ZU!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#!!Q`````Q!=1%!!!P``````````!!=+4WRE)&amp;:B&lt;(6F=Q!!B%"Q!"Y!!%EF5%QA2H*B&lt;76X&lt;X*L)%.P&lt;G:J:X6S982J&lt;WYA6'^P&lt;#ZM&gt;GRJ9C&amp;&amp;&lt;G&gt;J&lt;G5A5'&amp;S:7ZU)%6E;82P=C"/&lt;W2F,GRW9WRB=X-!-62B:S"&amp;:'FU&lt;X)A1W^S:4J&amp;&lt;G&gt;J&lt;G5A5'&amp;S:7ZU)%6E;82P=C"/&lt;W2F,GRW9WRB=X-!%U"Q!#!!!1!*!!:F&lt;G&gt;J&lt;G5!!("!=!!?!!"#*6"-)%:S97VF&gt;W^S;S"$&lt;WZG;7&gt;V=G&amp;U;7^O)&amp;2P&lt;WQO&lt;(:M;7);&lt;7^E&gt;7RF)'6E;82P=C"O&lt;W2F,GRW9WRB=X-!!#*597=A272J&gt;'^S)%.P=G5[&lt;7^E&gt;7RF)'6E;82P=C"O&lt;W2F!!!61(!!)!!"!!M!#%ZP:'5A5G6G!!"&gt;!0%!!!!!!!!!!R.597*M:3".97ZB:W6S,GRW&lt;'FC&amp;62B9GRF)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=QZP9GJF9X1A=G6G,G.U&lt;!!=1&amp;!!!A!+!!Q.&lt;W*K:7.U)(*F:C"J&lt;A!*1!-!!X*P&gt;Q!*1!-!!W.P&lt;!!31$$`````#7^M:#"W97RV:1!31$$`````#7ZF&gt;S"W97RV:1"-!0%!!!!!!!!!!B.597*M:3".97ZB:W6S,GRW&lt;'FC$U.F&lt;'QA1WBB&lt;G&gt;F,G.U&lt;!!A1&amp;!!"!!/!!]!%!!2$&amp;2B9GRF)%.I97ZH:1!!6!$Q!!Q!!Q!%!!1!"!!%!!1!"1!%!!9!#!!.!")$!!"Y!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!I!!!)1!!!!%!!!!"!!!!!!!1!4!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
+			</Item>
+			<Item Name="Callback Change Tag2.vi" Type="VI" URL="../Callback Change Tag2.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,I!!!!&amp;!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!R!5Q&gt;798*J97ZU!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#!!Q`````Q!=1%!!!P``````````!!=+4WRE)&amp;:B&lt;(6F=Q!!B%"Q!"Y!!%EF5%QA2H*B&lt;76X&lt;X*L)%.P&lt;G:J:X6S982J&lt;WYA6'^P&lt;#ZM&gt;GRJ9C&amp;&amp;&lt;G&gt;J&lt;G5A5'&amp;S:7ZU)%6E;82P=C"/&lt;W2F,GRW9WRB=X-!-62B:S"&amp;:'FU&lt;X)A1W^S:4J&amp;&lt;G&gt;J&lt;G5A5'&amp;S:7ZU)%6E;82P=C"/&lt;W2F,GRW9WRB=X-!%U"Q!#!!!1!*!!:F&lt;G&gt;J&lt;G5!!("!=!!?!!"#*6"-)%:S97VF&gt;W^S;S"$&lt;WZG;7&gt;V=G&amp;U;7^O)&amp;2P&lt;WQO&lt;(:M;7);&lt;7^E&gt;7RF)'6E;82P=C"O&lt;W2F,GRW9WRB=X-!!#*597=A272J&gt;'^S)%.P=G5[&lt;7^E&gt;7RF)'6E;82P=C"O&lt;W2F!!!61(!!)!!"!!M!#%ZP:'5A5G6G!!"&gt;!0%!!!!!!!!!!R.597*M:3".97ZB:W6S,GRW&lt;'FC&amp;62B9GRF)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=QZP9GJF9X1A=G6G,G.U&lt;!!=1&amp;!!!A!+!!Q.&lt;W*K:7.U)(*F:C"J&lt;A!*1!-!!X*P&gt;Q!*1!-!!W.P&lt;!!31$$`````#7^M:#"W97RV:1!31$$`````#7ZF&gt;S"W97RV:1"-!0%!!!!!!!!!!B.597*M:3".97ZB:W6S,GRW&lt;'FC$U.F&lt;'QA1WBB&lt;G&gt;F,G.U&lt;!!A1&amp;!!"!!/!!]!%!!2$&amp;2B9GRF)%.I97ZH:1!!6!$Q!!Q!!Q!%!!1!"!!%!!1!"1!%!!9!#!!.!")$!!"Y!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!I!!!)1!!!!%!!!!"!!!!!!!1!4!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
+			</Item>
 		</Item>
 		<Item Name="core override" Type="Folder">
 			<Item Name="GetText.vi" Type="VI" URL="../GetText.vi">
