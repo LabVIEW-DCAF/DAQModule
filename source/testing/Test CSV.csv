@@ -1,9 +1,20 @@
-Digital In,cDAQ9188XT-19AEF6BMod8/port0/line0,Digital Input,TRUE,,,,,,,,,,Digital In
-Digital In 2,cDAQ9188XT-19AEF6BMod8/port0/line1,Digital Output,TRUE,,,,,,,,,,
-Digital Out,cDAQ9188XT-19AEF6BMod8/port0/line2,Voltage Input,1.000000,2.000000,3,4,,,,,,,Digital Out
-Digital Out  2,cDAQ9188XT-19AEF6BMod8/port0/line3,Voltage Output,1.000000,2.000000,3,4,,,,,,,
-Voltage In,cDAQ9188XT-19AEF6BMod2/ai0,Current Input,1.000000,2.000000,3,4,5.000000,,,,,,Voltage In
-Voltage In  2,cDAQ9188XT-19AEF6BMod2/ai1,Current Output,1.000000,2.000000,3,4,5.000000,,,,,,
-Voltage Out,cDAQ9188XT-19AEF6BMod3/ao0,RTD,1.000000,2.000000,3,4.000000,5.000000,6,7,,,,Voltage Out
-Voltage Out  2,cDAQ9188XT-19AEF6BMod3/ao1,Thermocouple,1.000000,2.000000,3,4,5.000000,,,,,,
-Current In,cDAQ9188XT-19AEF6BMod2/ai15,Strain,1.000000,2.000000,3,4.000000,5.000000,6,7.000000,8.000000,9.000000,10.000000,
+Digital Input,cDAQ9188XT-19AEF6BMod8/port0/line0,Digital In,FALSE,,,,,,,,,,Digital In,
+Digital Input,cDAQ9188XT-19AEF6BMod8/port0/line1,Digital In 2,FALSE,,,,,,,,,,,
+Digital Output,cDAQ9188XT-19AEF6BMod8/port0/line2,Digital Out,FALSE,,,,,,,,,,Digital Out,
+Digital Output,cDAQ9188XT-19AEF6BMod8/port0/line3,Digital Out  2,FALSE,,,,,,,,,,,
+Voltage Input,cDAQ9188XT-19AEF6BMod2/ai0,Voltage In,1.000000,2.000000,3,4,,,,,,,Voltage In,
+Voltage Input,cDAQ9188XT-19AEF6BMod2/ai1,Voltage In  2,1.000000,2.000000,3,4,,,,,,,,
+Voltage Output,cDAQ9188XT-19AEF6BMod3/ao0,Voltage Out,1.000000,2.000000,3,4,,,,,,,Voltage Out,
+Voltage Output,cDAQ9188XT-19AEF6BMod3/ao1,Voltage Out  2,1.000000,2.000000,3,4,,,,,,,,
+Current Input,cDAQ9188XT-19AEF6BMod2/ai15,Current In,1.000000,2.000000,3,4,5.000000,,,,,,Current In,
+Current Input,cDAQ9188XT-19AEF6BMod2/ai14,Current In  2,1.000000,2.000000,3,4,5.000000,,,,,,,
+Current Output,cDAQ9188XT-19AEF6BMod1/ao0,Current Out,1.000000,2.000000,3,4,5.000000,,,,,,Current Out,
+Current Output,cDAQ9188XT-19AEF6BMod1/ao1,Current Out 2,1.000000,2.000000,3,4,5.000000,,,,,,,
+RTD,cDAQ9188XT-19AEF6BMod5/ai0,RTD In,1.000000,2.000000,3,4.000000,5.000000,6,7,,,,RTD In,
+RTD,cDAQ9188XT-19AEF6BMod5/ai1,RTD In 2,1.000000,2.000000,3,4.000000,5.000000,6,7,,,,,
+Thermocouple,cDAQ9188XT-19AEF6BMod4/ai0,TC In,1.000000,2.000000,3,4,5.000000,,,,,,TC In,
+Thermocouple,cDAQ9188XT-19AEF6BMod4/ai1,TC In 2,1.000000,2.000000,3,4,5.000000,,,,,,,
+Strain,cDAQ9188XT-19AEF6BMod6/ai0,Strain In,1.000000,2.000000,3,4.000000,5.000000,6,7.000000,8.000000,9.000000,10.000000,Strain In,
+Strain,cDAQ9188XT-19AEF6BMod6/ai1,Strain In 2,1.000000,2.000000,3,4.000000,5.000000,6,7.000000,8.000000,9.000000,10.000000,,
+PWM,cDAQ9188XT-19AEF6BMod8/port0/line4,PWM Freq,PWM Duty Cycle,TRUE,,,,,,,,,PWM Freq,PWM Duty Cycle
+PWM,cDAQ9188XT-19AEF6BMod8/port0/line5,PWM 2 Freq,PWM 2 Duty Cycle,TRUE,,,,,,,,,,
