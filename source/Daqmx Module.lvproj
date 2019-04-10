@@ -56,7 +56,7 @@
 				<Property Name="utf.vector.test.bind" Type="Str">2E4063C1-7314-7AF6-04ED-C561995C77FD</Property>
 			</Item>
 		</Item>
-		<Item Name="DAQmx Module editor node.lvclass" Type="LVClass" URL="../editor node/DAQmx Module editor node.lvclass"/>
+		<Item Name="Daqmx Module editor node.lvclass" Type="LVClass" URL="../editor node/DAQmx Module editor node.lvclass"/>
 		<Item Name="Daqmx Module configuration.lvclass" Type="LVClass" URL="../module/configuration/Daqmx Module configuration.lvclass"/>
 		<Item Name="DAQmx Module Runtime.lvclass" Type="LVClass" URL="../module/execution/DAQmx Module Runtime.lvclass"/>
 		<Item Name="DAQmx Module Tests.lvlib" Type="Library" URL="../testing/DAQmx Module Tests.lvlib"/>
