@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2019-04-01 13:59:47" Creator="Daniel" Comments="" ID="fe24317f725de5edfed13a053168bc75">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2019-04-29 14:17:47" Creator="Daniel" Comments="" ID="cd467db6fb79d62c0ee5107792e76e9d">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_daqmx</Package_File_Name>
     <Library_Version>1.2.0.17</Library_Version>
@@ -36,7 +36,12 @@ Contribute to this open source software at github.com/LabVIEW-DCAF/DAQModule</De
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>https://github.com/LabVIEW-DCAF/DAQModule</URL>
-      <Release_Notes>Added support for PWM in DAQ module. </Release_Notes>
+      <Release_Notes>Correcting the next issues:
+
+Issue 59: It is not possible add/modify channels in the Configure Channel window (Line Configuration Dialog.vi).
+Tab control is overlapping with Ok and Cancel buttons and doesn't allow clicking them.
+
+Issue 50: Editing Physical Channel Does not Disconnect Previous Mapping</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
